@@ -1,12 +1,20 @@
 # Victor Martins
 
-**Backend engineering · Developer tooling · Systems performance**
+**Software engineer · Distributed systems · Security · Performance**
 
 [LinkedIn](https://www.linkedin.com/in/victormartins2/) · [X / Twitter](https://x.com/0xvmartins) · [Email](mailto:martins.victor212004@gmail.com)
 
-I build backend services, tools for reviewing dependencies, and experiments that make performance trade-offs easier to understand. My projects span Go, Rust, C, JavaScript and Python.
+I'm a software engineer based in São Paulo, Brazil. My background is in distributed backend systems, payment infrastructure and security engineering, working primarily with Rust and TypeScript.
 
-I like working close to the details: how a service handles concurrent requests, what an npm update changes, or why a loop spends more time waiting for memory than doing arithmetic.
+I've worked on payment services, identity verification, authentication and event-driven processing, from implementation through deployment and production debugging. I also have a background in robotics and mechatronics.
+
+In open source, I build developer tools and small, reproducible performance experiments in Rust, C, Go, JavaScript and Python. I like questions that can be investigated in code: what changed in a dependency, where a service spends its time, or why a loop is waiting for memory.
+
+### Engineering background
+
+- **Backend & infrastructure:** distributed services, APIs and asynchronous workflows; PostgreSQL, Redis, AWS, GCP, Kubernetes and Terraform.
+- **Security:** authentication, cryptographic workflows and identity verification, with experience in payment and fraud-prevention systems.
+- **Performance & reliability:** profiling, concurrency, observability and debugging across application, network and operating-system layers.
 
 ### Working on
 
