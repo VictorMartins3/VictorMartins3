@@ -8,7 +8,7 @@ I'm a software engineer based in São Paulo, Brazil. My background is in distrib
 
 I've worked on payment services, identity verification, authentication and event-driven processing, from implementation through deployment and production debugging. I also have a background in robotics and mechatronics.
 
-In open source, I build developer tools and small, reproducible performance experiments in Rust, C, Go, JavaScript and Python. I like questions that can be investigated in code: what changed in a dependency, where a service spends its time, or why a loop is waiting for memory.
+My open-source work focuses on dependency analysis and reproducible benchmarks for systems performance.
 
 ### Engineering background
 
@@ -25,12 +25,6 @@ It compares source scans against a reviewed baseline and points to newly observe
 It's early. I'm especially interested in real updates where the report is noisy, misses a change, or leaves you unsure what to review next.
 
 [Try the demo](https://github.com/VictorMartins3/capsurface#terminal-demo) · [Report an issue](https://github.com/VictorMartins3/capsurface/issues)
-
-### Backend & systems
-
-- **[credit-service](https://github.com/VictorMartins3/credit-service)** — a Go service for credit decisions, with configurable rules, concurrent processing, PostgreSQL, Redis and Prometheus metrics.
-- **[payment-engine](https://github.com/VictorMartins3/payment-engine)** — a Rust transaction processor covering deposits, withdrawals, disputes and chargebacks, with decimal arithmetic and streaming CSV input.
-- **[healthcare-api](https://github.com/VictorMartins3/healthcare-api)** — a Python/FastAPI project for patient records, clinical notes and AI-assisted summaries, backed by PostgreSQL.
 
 ### Performance experiments
 
