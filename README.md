@@ -18,7 +18,7 @@ My open-source work focuses on dependency analysis and reproducible benchmarks f
 
 ### Working on
 
-**[capsurface](https://github.com/VictorMartins3/capsurface)** — an offline tool for reviewing npm dependency updates.
+**[capsurface](https://github.com/VictorMartins3/capsurface)** an offline tool for reviewing npm dependency updates.
 
 It compares source scans against a reviewed baseline and points to newly observed filesystem, network, process-execution and credential-access indicators. The goal is to give reviewers a useful before/after, with source locations they can inspect locally or in a pull request.
 
