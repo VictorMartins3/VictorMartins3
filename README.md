@@ -1,7 +1,10 @@
 # Victor Martins
 
-I build developer tools and small, reproducible experiments in systems performance.
-My current focus is dependency review: making it easier to see what changed in the code we install.
+**Backend engineering · Developer tooling · Systems performance**
+
+I build backend services, tools for reviewing dependencies, and experiments that make performance trade-offs easier to understand. My projects span Go, Rust, C, JavaScript and Python.
+
+I like working close to the details: how a service handles concurrent requests, what an npm update changes, or why a loop spends more time waiting for memory than doing arithmetic.
 
 ### Working on
 
@@ -12,6 +15,12 @@ It compares source scans against a reviewed baseline and points to newly observe
 It's early. I'm especially interested in real updates where the report is noisy, misses a change, or leaves you unsure what to review next.
 
 [Try the demo](https://github.com/VictorMartins3/capsurface#terminal-demo) · [Report an issue](https://github.com/VictorMartins3/capsurface/issues)
+
+### Backend & systems
+
+- **[credit-service](https://github.com/VictorMartins3/credit-service)** — a Go service for credit decisions, with configurable rules, concurrent processing, PostgreSQL, Redis and Prometheus metrics.
+- **[payment-engine](https://github.com/VictorMartins3/payment-engine)** — a Rust transaction processor covering deposits, withdrawals, disputes and chargebacks, with decimal arithmetic and streaming CSV input.
+- **[healthcare-api](https://github.com/VictorMartins3/healthcare-api)** — a Python/FastAPI project for patient records, clinical notes and AI-assisted summaries, backed by PostgreSQL.
 
 ### Performance experiments
 
