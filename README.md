@@ -2,6 +2,8 @@
 
 **Backend engineering · Developer tooling · Systems performance**
 
+[LinkedIn](https://www.linkedin.com/in/victormartins2/) · [X / Twitter](https://x.com/0xvmartins) · [Email](mailto:martins.victor212004@gmail.com)
+
 I build backend services, tools for reviewing dependencies, and experiments that make performance trade-offs easier to understand. My projects span Go, Rust, C, JavaScript and Python.
 
 I like working close to the details: how a service handles concurrent requests, what an npm update changes, or why a loop spends more time waiting for memory than doing arithmetic.
